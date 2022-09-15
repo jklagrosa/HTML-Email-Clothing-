@@ -1,4 +1,4 @@
-# HTML Email [Clothing]
+# HTML Email [Clothing Brand]
 
 ![Clothing 1](https://user-images.githubusercontent.com/104843990/189903216-eb4b780c-b6c8-40aa-bded-d9aa079cde75.png)
 
